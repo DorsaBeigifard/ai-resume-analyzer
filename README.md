@@ -4,7 +4,7 @@ An AI-powered Resume Analyzer with React, React Router, and Puter.js
 
 - **[React](https://react.dev/)** 
 - **[React Router v7](https://reactrouter.com/)** 
-- **[Puter.com](https://jsm.dev/resumind-puter)** time.
+- **[Puter.com](https://jsm.dev/resumind-puter)** 
 - **[Puter.js](https://jsm.dev/resumind-puterjs)** 
 - **[Tailwind CSS](https://tailwindcss.com/)** 
 - **[TypeScript](https://www.typescriptlang.org/)** 
